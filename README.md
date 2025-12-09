@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FLRuocco22%2FNozApp.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FLRuocco22%2FNozApp?ref=badge_shield)
+
 **Obiettivo Del Progetto**
 Il seguente progetto mira alla realizzazione di un modulo di raccomandazione, inserito in un'app per smart tv.
 Il comportamento atteso è:
@@ -40,3 +42,6 @@ Una volta applicato l'algoritmo di clustering, è stato realizzato un modulo di 
 7. All'interno del file "try_me.py" nella variabile "dati da inviare" inserire tra "[]" uno o più id presenti all'interno del file "movies_with_cluster.csv" separati da una virgola.
 **Attenzione: inserire il tmdbId e non il movieID.** Esempi di input: "tmdb_ids": [277834]" , "tmdb_ids": [277834, 862]" , "tmdb_ids": [277834, 862, 354912]"
 8. Eseguire da nuovo terminale "py try_me.py" e attendere la generazione dell'output.
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FLRuocco22%2FNozApp.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FLRuocco22%2FNozApp?ref=badge_large)
